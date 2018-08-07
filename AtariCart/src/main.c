@@ -1739,10 +1739,6 @@ void EmulateCarts() {
 
 
 
-
-
-
-
 int main(void) {
 	/* Ouptut: LEDS - PB{0..1}, RD5 - PB2, RD4 - PB4 */
 	config_gpio_leds_RD45();
